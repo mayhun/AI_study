@@ -33,6 +33,8 @@
 
 ### 📌 U-Net 아키텍처 구조
 ![U-Net 아키텍처](./etc/unet_architecture.png)
-## 
 
 
+---
+## 모델 추론 결과
+![output](./etc/output.png)
